@@ -43,7 +43,7 @@ Awards
 
 10/2017 National University of Defense Technology Freshman Scholarship
 
-12/2015 China Undergraduate Mathematical Contest in Modeling
+12/2015 China Undergraduate Mathematical Contest in Modeling (second prize)
 
 10/2015 China Robot RoboCup Open Martial Arts Arena Competition (frist prize)
 
