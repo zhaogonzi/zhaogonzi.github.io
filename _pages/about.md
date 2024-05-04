@@ -36,27 +36,17 @@ Publications
 
 Awards
 ======
-2024.03 Outstanding PhD graduate of Hunan University
-
-2022.12 Huawei Scholarship
-
-2022.10 Excellent doctoral candidate of Hunan University
-
-2021.09 Hunan Province "Internet +" competition provincial (second prize)
-
-2019.10 Outstanding student of National University of Defense Technology
-
-2018.07 China Graduate Electronic Design Competition (second prize)
-
-2017.10 National University of Defense Technology Freshman Scholarship
-
-2015.12 China Undergraduate Mathematical Contest in Modeling
-
-2015.10 China Robot RoboCup Open Martial Arts Arena Competition (frist prize)
-
-2015.09 National University Internet of Things Application Innovation Competition (second prize)
-
-2015.07 International Underwater Robot Competition (second prize)
+03/2024 Outstanding PhD graduate of Hunan University
+12/2022 Huawei Scholarship
+10/2022 Excellent doctoral candidate of Hunan University
+09/2021 Hunan Province "Internet +" competition provincial (second prize)
+10/2019 Outstanding student of National University of Defense Technology
+07/2018 China Graduate Electronic Design Competition (second prize)
+10/2017 National University of Defense Technology Freshman Scholarship
+12/2015 China Undergraduate Mathematical Contest in Modeling
+10/2015 China Robot RoboCup Open Martial Arts Arena Competition (frist prize)
+09/2015 National University Internet of Things Application Innovation Competition (second prize)
+07/2015 International Underwater Robot Competition (second prize)
 
 
 
