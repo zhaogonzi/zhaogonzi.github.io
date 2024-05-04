@@ -65,4 +65,4 @@ Awards
 
 For more info
 ------
-If there is a willingness to collaborate, please contact via email at zhaolei@hnu.edu.cn or zhaolei.nudt.17@gmail.com. We welcome collaboration and learning opportunities for all.
+If there is a willingness to collaborate, please contact via email at [zhaolei@hnu.edu.cn](mailto:zhaolei@hnu.edu.cn) or [zhaolei.nudt.17@gmail.com](mailto:zhaolei.nudt.17@gmail.com). We welcome collaboration and learning opportunities for all.
