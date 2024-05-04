@@ -65,4 +65,4 @@ Awards
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+If there is a willingness to collaborate, please contact via email at zhaolei@hnu.edu.cn or zhaolei.nudt.17@gmail.com. We welcome collaboration and learning opportunities for all.
