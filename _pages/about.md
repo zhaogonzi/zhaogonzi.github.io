@@ -38,12 +38,9 @@ Awards
 ======
 2024.03 Outstanding PhD graduate of Hunan University
 
-
 2022.12 Huawei Scholarship
 
-
 2022.10 Excellent doctoral candidate of Hunan University
-
 
 2021.09 Hunan Province "Internet +" competition provincial second prize
 
