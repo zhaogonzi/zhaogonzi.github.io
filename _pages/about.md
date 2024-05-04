@@ -34,6 +34,22 @@ Publications
 [8] Lailu Li, **Lei Zhao**, Rayan Hassan, Hongliang Ren. Review on Wearable System for Positioning Ultrasound Scanner. Machines, 2023, 11(3): 325. [Paper LinK](https://www.mdpi.com/2075-1702/11/3/325)
 
 
+Awards
+======
+2024.03 Outstanding PhD graduate of Hunan University
+
+
+2022.12 Huawei Scholarship
+
+
+2022.10 Excellent doctoral candidate of Hunan University
+
+
+2021.09 Hunan Province "Internet +" competition provincial second prize
+
+
+
+
 
 For more info
 ------
