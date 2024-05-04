@@ -47,7 +47,7 @@ Awards
 
 10/2015 China Robot RoboCup Open Martial Arts Arena Competition (frist prize)
 
-09/2015 National University Internet of Things Application Innovation Competition (second prize)
+09/2015 National College Internet of Things Application Innovation Competition (second prize)
 
 07/2015 International Underwater Robot Competition (second prize)
 
