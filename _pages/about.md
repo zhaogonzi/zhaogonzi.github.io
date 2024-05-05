@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-About me
+
 ======
 My name is Zhao Lei. I obtained my Ph.D. degree in Computer Science and Technology in 2024. I am very fortunate to be advised by Prof. Xiangke Liao and Prof. Kenli Li of Intelligent Ultrasound Lab, Hunan University. My research interests are mainly about image-based intelligent assistance for ultrasound scanning.
 
