@@ -14,7 +14,7 @@ Publications
 ======
 [1] **Lei Zhao**, Guanghua Tan, Bin Pu, Qianghui Wu, Hongliang Ren, Kenli Li. TransFSM: Fetal Anatomy Segmentation and Biometric Measurement in Ultrasound Images Using a Hybrid Transformer. IEEE Journal of Biomedical And Health Informatics，2023, doi: 10.1109/JBHI.2023.3328954. [Paper Link](https://ieeexplore.ieee.org/abstract/document/10310100)
 
-[2] **Lei Zhao**, Guanghua Tan, Qianghui Wu, Bin Pu, Hongliang Ren, Shengli Li, Kenli Li. FARN: Fetal Anatomy Reasoning Network for Detection with Global Context Semantic and Local Topology Relationship. IEEE Journal of Biomedical And Health Informatics. 2023, doi: 10.1109/JBHI.2024.3392531. [Paper Link](https://ieeexplore.ieee.org/abstract/document/10506586)
+[2] **Lei Zhao**, Guanghua Tan, Qianghui Wu, Bin Pu, Hongliang Ren, Shengli Li, Kenli Li. FARN: Fetal Anatomy Reasoning Network for Detection with Global Context Semantic and Local Topology Relationship. IEEE Journal of Biomedical And Health Informatics. 2024, doi: 10.1109/JBHI.2024.3392531. [Paper Link](https://ieeexplore.ieee.org/abstract/document/10506586)
 
 [3] **Lei Zhao**, Kenli Li, Bin Pu, Jianguo Chen, Shengli Li, Xiangke Liao. An ultrasound standard plane detection model of fetal head based on multi-task learning and hybrid knowledge graph，Future Generation Computer Systems, 2022, 135: 234-243. [Paper Link](https://www.sciencedirect.com/science/article/pii/S0167739X22001340)
 
