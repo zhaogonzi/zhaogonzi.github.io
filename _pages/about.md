@@ -34,7 +34,7 @@ Awards
 
 12/2022 Huawei Scholarship
 
-10/2023 China 'Internet+' College Students Innovation and Entrepreneurship Competition (bronze award)
+09/2023 China 'Internet+' College Students Innovation and Entrepreneurship Competition (bronze award)
 
 10/2022 Excellent doctoral candidate of Hunan University
 
