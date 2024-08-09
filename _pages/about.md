@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 
-My name is Lei Zhao, and I obtained my Ph.D. in Computer Science and Technology in 2024. I am very fortunate to be advised by Prof. Xiangke Liao and Prof. Kenli Li of Intelligent Ultrasound Lab, Hunan University. In 2023, I was a visiting student at the Chinese University of Hong Kong and the National University of Singapore, the collaborative supervisors are Prof. Hongliang Ren and Dr. Chwee Ming Lim. I obtained my Master's degree in 2020 under the supervision of Prof. Yong Dou at the National University of Defense Technology. My research interests primarily focus on artificial intelligence and medical image analysis, aiming to enhance clinical workflows and diagnostics through intelligent ultrasound scanning systems.
+My name is Lei Zhao, and I obtained my Ph.D. in Computer Science and Technology in 2024. I am very fortunate to be advised by Prof. Xiangke Liao and Prof. Kenli Li of Intelligent Ultrasound Lab, Hunan University. In 2022, I was a visiting student at the Chinese University of Hong Kong and the National University of Singapore, the collaborative supervisors are Prof. Hongliang Ren and Dr. Chwee Ming Lim. I obtained my Master's degree in 2020 under the supervision of Prof. Yong Dou at the National University of Defense Technology. My research interests primarily focus on artificial intelligence and medical image analysis, aiming to enhance clinical workflows and diagnostics through intelligent ultrasound scanning systems.
 
 
 Publications
@@ -35,9 +35,9 @@ Awards
 
 12/2022 Huawei Scholarship
 
-09/2023 China 'Internet+' College Students Innovation and Entrepreneurship Competition (bronze award)
-
 10/2022 Excellent doctoral candidate of Hunan University
+
+09/2022 China 'Internet+' College Students Innovation and Entrepreneurship Competition (bronze award)
 
 10/2019 Outstanding student of National University of Defense Technology
 
