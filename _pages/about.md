@@ -26,7 +26,7 @@ Publications
 
 [7] **Lei Zhao**, Peng Qiao, Yong Dou. Aircraft Segmentation Based On Deep Learning framework: from extreme points to remote sensing image segmentation. 2019 IEEE Symposium Series on Computational Intelligence (SSCI). IEEE, 2019: 1362-1366. [Paper Link](https://ieeexplore.ieee.org/abstract/document/9002656)
 
-[8] Yan Kang, Yancong Yuan, Bin Pub, Yun Yang, **Lei Zhao**, and Jing Guo. HICL: Hierarchical intent contrastive learning for sequential recommendation[J]. Expert Systems with Applications, 2024: 123886. [Paper Link](https://www.sciencedirect.com/science/article/pii/S0957417424007528)
+[8] Yan Kang, Yancong Yuan, Bin Pu, Yun Yang, **Lei Zhao**, and Jing Guo. HICL: Hierarchical intent contrastive learning for sequential recommendation[J]. Expert Systems with Applications, 2024: 123886. [Paper Link](https://www.sciencedirect.com/science/article/pii/S0957417424007528)
 
 [9] Lailu Li, **Lei Zhao**, Rayan Hassan, Hongliang Ren. Review on Wearable System for Positioning Ultrasound Scanner. Machines, 2023, 11(3): 325. [Paper Link](https://www.mdpi.com/2075-1702/11/3/325)
 
